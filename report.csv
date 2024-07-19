@@ -1,0 +1,19 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"CO215-Pattern Recognition"
+Faculty:,Pallabi
+total,4
+start,2024-07-01
+end,2024-07-12
+slno,roll_no,name,2024-07-01,2024-07-05,2024-07-09,2024-07-12,attended,percent
+1,CSB21005,"Daniel Brown",P,P,P,P,4,100
+2,CSB21007,"Matthew Davis",P,P,P,P,4,100
+3,CSB21008,"Emma Miller",P,A,A,A,1,25
+4,CSB21010,"Sarah Taylor",P,A,A,A,1,25
+5,CSB21011,"Michael Martinez",P,A,P,P,3,75
+6,CSB21012,"Ava Anderson",P,P,P,P,4,100
+7,CSM21001,"Liam Garcia",P,P,P,A,3,75
+8,CSM21005,"Mason Lopez",P,A,A,A,1,25
+9,CSM21009,"William Martinez",P,A,A,A,1,25
+10,CSM21010,"Emily Brown",P,A,A,A,1,25
+11,CSM21011,"James Rodriguez",P,A,A,A,1,25
+12,CSM21012,"Emma Hernandez",P,A,A,A,1,25
